@@ -1,0 +1,15 @@
+VIDEO DOWNLOADER 10.0.5 — PODATKI O IZVORNI KODI
+
+Izvorna koda je bila neposredno izvlečena iz razdelka ::CSGZ v datoteki
+Namesti.bat iz paketa Video_Downloader_10_0_5_Namesti_BAT.
+
+Namestitvena datoteka vsebuje:
+- C# kodo, stisnjeno z GZipom in zapisano kot Base64,
+- ikono programa,
+- sliko za predogled podnapisov.
+
+Datoteka Namesti_VideoDownloader_9_9_2.exe je starejša različica 9.9.2 in ni bila
+uporabljena za izdelavo tega vira, ker je paket 10.0.5 vseboval natančen originalni vir.
+
+Projekt je pripravljen za .NET Framework 4.8 in Visual Studio 2022.
+Skripta Build_Exact.bat posnema ukaz za prevajanje iz namestitvene datoteke 10.0.5.
